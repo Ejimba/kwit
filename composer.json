@@ -1,0 +1,15 @@
+{
+	"name": "ejimba/kwit",
+	"description": "KenyaEMR to webADT Import Tool",
+	"type": "project",
+	"keywords": ["KenyaEMR", "webADT", "import", "tool"],
+	"homepage": "https://github.com/Ejimba/kwit",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.3.7"
+	},
+	"require-dev": {
+		"mikey179/vfsStream": "1.1.*",
+		"phpunit/phpunit": "4.* || 5.*"
+	}
+}
